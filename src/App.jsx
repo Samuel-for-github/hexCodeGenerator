@@ -33,6 +33,7 @@ function App() {
     <>
 
 <div className='flex h-screen flex-col items-center justify-center'>
+  <h1>RRGGBB to HEX code</h1>
 <div className="flex h-[145px] w-screen text-center justify-center bg-white text-black" style={{backgroundColor: hexCodeGenerator()}}>
 
 <input type="range"
